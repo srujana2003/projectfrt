@@ -6,7 +6,7 @@ This is a web based application developed for health related based website
 
 
 **Project Link** - https://thankful-stone-029a88b00.3.azurestaticapps.net/
-**Project Demo Video Link** - 
+**Project Demo Video Link** - https://youtu.be/jEfJHQBoZjk
 
 
 ## Azure Technologies used for Project
