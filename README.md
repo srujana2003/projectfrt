@@ -10,7 +10,7 @@ This is a web based application developed for health related based website
 
 
 ## Azure Technologies used for Project
-- Static wen apps
+- Static web apps
 - Health bot
 
 
